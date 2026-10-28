@@ -1,0 +1,6 @@
+{
+  "name": "IMovies - Movie Ticket Booking & Cinema System",
+  "description": "Book movie tickets seamlessly with interactive seat selection, showtimes, SkillWallet credits, and cinema management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
